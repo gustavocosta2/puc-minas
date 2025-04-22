@@ -5,4 +5,9 @@ Esse repositório contém as minhas anotações pessoais, estudos, reflexões e 
 
 ## **Máterias:**
 
-- 
+- Aprendizado de Máquina 2
+- Sistemas Operacionais
+- Filosofia, Razão e Modernidade
+- Inteligência Artificial
+- Mineração de Séries Temporais
+- Projeto IV
